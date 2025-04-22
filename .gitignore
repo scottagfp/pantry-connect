@@ -1,0 +1,9 @@
+/vendor/
+/node_modules/
+/.env
+*.log
+*.lock
+.idea/
+.DS_Store
+*.bak
+/public/uploads/
